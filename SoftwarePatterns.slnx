@@ -1,0 +1,31 @@
+<Solution>
+  <Folder Name="/11-GoF-Design-Patterns/Creational/">
+    <Project Path="11-GoF-Design-Patterns/Creational/AbstractFactory/abstract-factory-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Creational/Builder/builder-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Creational/FactoryMethod/factory-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Creational/Prototype/prototype-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Creational/Singleton/singleton-design-pattern.csproj" />
+  </Folder>
+  <Folder Name="/11-GoF-Design-Patterns/Structural/">
+    <Project Path="11-GoF-Design-Patterns/Structural/Adapter/adapter-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Structural/Bridge/bridge-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Structural/Composite/composite-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Structural/Decorator/decorator-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Structural/Facade/facade-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Structural/Flyweight/flyweight-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Structural/Proxy/proxy-design-pattern.csproj" />
+  </Folder>
+  <Folder Name="/11-GoF-Design-Patterns/Behavioral/">
+    <Project Path="11-GoF-Design-Patterns/Behavioral/ChainOfResponsibility/chain-of-responsibility-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Behavioral/Command/command-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Behavioral/Interpreter/interpreter-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Behavioral/Iterator/iterator-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Behavioral/Mediator/mediator-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Behavioral/Memento/memento-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Behavioral/Observer/observer-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Behavioral/State/state-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Behavioral/Strategy/strategy-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Behavioral/TemplateMethod/template-method-design-pattern.csproj" />
+    <Project Path="11-GoF-Design-Patterns/Behavioral/Visitor/visitor-design-pattern.csproj" />
+  </Folder>
+</Solution>
